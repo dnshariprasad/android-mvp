@@ -1,5 +1,3 @@
 # Android MVP
 
-> Includes..
-* Dagger
-* Retrofit
+> Includes Dagger, Retrofit
